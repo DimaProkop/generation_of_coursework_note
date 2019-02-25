@@ -1,1 +1,1 @@
-new project (course work for university) 
+# Generator for course work: notes, paragraphs, UI and etc.
