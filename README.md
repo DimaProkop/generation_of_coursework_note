@@ -1,1 +1,1 @@
-# Generator for course work: notes, paragraphs, UI and etc.
+# Service for generating course work: notes, paragraphs, tree, UI and etc.
